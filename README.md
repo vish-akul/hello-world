@@ -1,2 +1,5 @@
 # hello-world
-My first time using git
+
+Hi
+
+Its my first time using git, and so far it seems really easy!
